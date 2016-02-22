@@ -1,4 +1,5 @@
 //part 1: counts from 1 to 20 and checks if number is divisable by 3 and/or 5 and/or 7 or neighter.
+//214519970 Halalisile Mzobe
 #include<iostream>
 #include<string>
 using namespace std;
